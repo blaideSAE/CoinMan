@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\bfedorowytsch\documents\coinman v traps and enemies\coinman v traps and enemies\main.cpp(86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bfedorowytsch\documents\coinman v traps and enemies\coinman v traps and enemies\main.cpp(138): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bfedorowytsch\documents\coinman v traps and enemies\coinman v traps and enemies\main.cpp(294): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\bfedorowytsch\documents\coinman v traps and enemies\coinman v traps and enemies\main.cpp(343): warning C4018: '<': signed/unsigned mismatch
+c:\users\bfedorowytsch\documents\coinman v traps and enemies\coinman v traps and enemies\main.cpp(379): warning C4018: '<': signed/unsigned mismatch
+c:\users\bfedorowytsch\documents\coinman v traps and enemies\coinman v traps and enemies\main.cpp(399): warning C4018: '<': signed/unsigned mismatch
+c:\users\bfedorowytsch\documents\coinman v traps and enemies\coinman v traps and enemies\main.cpp(418): warning C4018: '<': signed/unsigned mismatch
+c:\users\bfedorowytsch\documents\coinman v traps and enemies\coinman v traps and enemies\main.cpp(645): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\bfedorowytsch\documents\coinman v traps and enemies\coinman v traps and enemies\main.cpp(658): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bfedorowytsch\documents\coinman v traps and enemies\coinman v traps and enemies\main.cpp(674): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Project3.vcxproj -> C:\Users\bfedorowytsch\Documents\CoinMan v traps and enemies\CoinMan v Traps and Enemies\Debug\Project3.exe
